@@ -46,8 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![image](https://github.com/ahalyaselvakumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870759/0d3cbc76-f1c3-4e73-b02a-3d9a0fd0f8d5)
+![image](https://github.com/ahalyaselvakumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870759/be8e93c9-f4b4-4061-9762-ce52f66695b5)
 
+![image](https://github.com/ahalyaselvakumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870759/054eb279-6f49-4266-9ca3-e770a094045d)
+
+![image](https://github.com/ahalyaselvakumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870759/6cf3ecac-ce8b-4e84-9b65-7c80ce8bc216)
 
 ### Name: AHALYA S
 ### Register Number: 212223230006
